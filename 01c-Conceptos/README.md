@@ -41,7 +41,7 @@ Cuando *pegamos* una expression en la consola de Firefox o de Chrome, vamos a po
 
 ![Expresion](/_src/assets/conceptos/expresion.png)
 
-```js
+  ```js
 // hace algo
 if (condicion) {
   // código ejecutado si es true
